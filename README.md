@@ -1,5 +1,5 @@
 # Import an Excel File Into MySQL Database using PHPSpreadsheet
- Develp PHP Application to load an Excel file into into a MySQL table using PHPSpreadsheet. Download PHPSpreadsheet and create a form to upload the Excel file. Then using few methods from PHPSpreadsheet read the file and insert or update the data into a MySQL table. Visit website https://codehow2.com.
+Develop a PHP Application to load an Excel file into a MySQL table using PHPSpreadsheet. Download PHPSpreadsheet and create a form to upload the Excel file. Then using a few methods from PHPSpreadsheet read the file and insert or update the data into a MySQL table. Visit the website https://codehow2.com.
  
 1) Download the repository from https://github.com/sundarsau/Import-Excel-Data-Into-Database
 2) Extract all the files in a folder under xampp/htdocs
